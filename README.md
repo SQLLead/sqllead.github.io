@@ -1,6 +1,6 @@
-# tophalf.github.com
+# tophalf.github.io
 
-Welcome to the repository that powers https://tophalf.github.com — a simple GitHub Pages site for showcasing collaboration projects and public repositories.
+Welcome to the repository that powers https://tophalf.github.io — a simple GitHub Pages site for showcasing collaboration projects and public repositories.
 
 This README explains the site's purpose, how to preview it locally, how deployments work, how to edit content, and useful follow-ups (custom domain, theme, contact).
 
