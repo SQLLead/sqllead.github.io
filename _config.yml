@@ -1,0 +1,26 @@
+# _config.yml
+
+title: "Toot Suite"
+description: "A soundboard web app project"
+theme: minima
+
+# URL settings
+url: "https://sqllead.github.io"   # Your GitHub Pages URL
+baseurl: "/toot-suite"             # Repository name prefixed with a slash
+
+# GitHub Pages settings
+github:
+  is_project_page: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude unnecessary files from site build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
