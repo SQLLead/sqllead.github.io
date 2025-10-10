@@ -1,4 +1,4 @@
-# tophalf.github.io
+# sqllead.github.io
 
 Welcome to the repository that powers https://sqllead.github.io — a simple GitHub Pages site for showcasing collaboration projects and public repositories.
 
